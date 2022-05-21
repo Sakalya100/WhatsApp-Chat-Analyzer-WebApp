@@ -2,7 +2,24 @@
 ![Banner](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/Orange%20And%20Blue%20Modern%20Professional%20Construction%20Banner%20Design.png)
 
 
-A Streamlit based Web Application that can be used to analyse whatsapp chats whether in Group or personal 1v1 chats. Now its easy to effectively bisualise and manage your activities on WhatsApp. 
+A Streamlit based Web Application that can be used to analyse whatsapp chats whether in Group or personal 1v1 chats. Now its easy to effectively bisualise and manage your activities on WhatsApp. You can have a look at the App here -> [Website](https://wca-sakalya.herokuapp.com/)
+
+## How to Use
+
+1. Exporting Chats from WhatsApp.
+- Open your WhatsApp and go to any group/personal chats which you want to visualise.
+- On the top right corner click on the 3 dots.
+- Select **More** Option.
+- Click on Export Chat and select Without Media.
+- Yayyy!! Your Chat is now exported. Share it anywhere or store in your system to use in the web app
+
+2. Using the WhatsApp Chat Analyser
+- Open the Web App using the [Link](https://wca-sakalya.herokuapp.com/).
+- Upload your exported chat.
+- Select what type of analysis you want- Overall or personal user based.
+- Click on Show Analysis.
+- Observe the various statistics of your whatsapp chat.
+
 
 ## Technology Used
 - Streamlit
