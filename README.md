@@ -1,7 +1,10 @@
 # WhatsApp-Chat-Analyzer-WebApp
-A Streamlit based Web Application that can be used to analyse whatsapp chats whether in Group or personal 1v1 chats. 
+![Banner](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/Orange%20And%20Blue%20Modern%20Professional%20Construction%20Banner%20Design.png)
 
-# Technology Used
+
+A Streamlit based Web Application that can be used to analyse whatsapp chats whether in Group or personal 1v1 chats. Now its easy to effectively bisualise and manage your activities on WhatsApp. 
+
+## Technology Used
 - Streamlit
 - Numpy
 - Pandas
@@ -10,7 +13,7 @@ A Streamlit based Web Application that can be used to analyse whatsapp chats whe
 - Seaborn
 
 
-# Introduction
+## Introduction
 
 WhatsApp is a very useful and widely used communication platform nowadays. Almost 95% of the world population is on WhatsApp chatting through the application sharinf media, links and important matters through it. It is really necessary to analyse where and how an individual is interacting and how much active he/she is on this app. May be due to the reasons of proudctivity or self analysis, this web app will surely provide a solution to everyone.
 
@@ -39,3 +42,34 @@ With this web app we can further extend the features to an interactive dashboard
 
 
 ## Web App Screenshots
+
+### Initial Page 
+![Home](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/1.png)
+
+### Overall or Individual User Based Statistics Option
+![alt-text-1](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/2.png) ![alt-text-2](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/3.png)
+
+### Overall Statistics
+![Overall](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/4.png)
+
+### Timelines
+![Timelines](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/5.png)
+
+### Activity Maps
+![Activity](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/6.png)
+
+### Busy Users and Word Cloud
+![Cloud](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/7.png)
+
+### Emoji Analysis
+![Emoji](https://github.com/Sakalya100/WhatsApp-Chat-Analyzer-WebApp/blob/main/Images/8.png)
+
+
+## Video Demo
+
+https://user-images.githubusercontent.com/70064084/169647743-2fd8ed8f-243f-4c9e-91eb-dd2193721263.mp4
+
+
+## Contributors
+- [@Sakalya100](https://github.com/Sakalya100)
+
